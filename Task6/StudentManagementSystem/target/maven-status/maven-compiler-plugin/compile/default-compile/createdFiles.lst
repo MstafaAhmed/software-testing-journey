@@ -1,0 +1,17 @@
+com\mycompany\studentmanagementsystem\AttendanceStatus.class
+com\mycompany\studentmanagementsystem\P_S_Postgraduate.class
+com\mycompany\studentmanagementsystem\Person.class
+com\mycompany\studentmanagementsystem\Qualification.class
+com\mycompany\studentmanagementsystem\P_I_Professor.class
+com\mycompany\studentmanagementsystem\Degree.class
+com\mycompany\studentmanagementsystem\P_I_Lecturer.class
+com\mycompany\studentmanagementsystem\P_Student.class
+com\mycompany\studentmanagementsystem\StudentManager.class
+com\mycompany\studentmanagementsystem\Grade.class
+com\mycompany\studentmanagementsystem\enum_Department.class
+com\mycompany\studentmanagementsystem\P_S_Undergraduate.class
+com\mycompany\studentmanagementsystem\Course.class
+com\mycompany\studentmanagementsystem\StudentManagementSystem.class
+com\mycompany\studentmanagementsystem\P_Instructor.class
+com\mycompany\studentmanagementsystem\Year.class
+com\mycompany\studentmanagementsystem\Attendance.class
